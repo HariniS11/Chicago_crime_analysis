@@ -1,3 +1,13 @@
 # Chicago_crime_analysis
+
+###The Chicago Crime Analysis is about analyzing the datas and getting the insights from the datas and recommending solutions to the policy makers and social workers.
+
+This analysis contains Geospatial analysis , Crime types , Trends of Crimes (depends on Year, Month, Days and Time), Domestic vs Non-domestic crimes, Arrest and reported crimes to leverage the Law enforcement actions , Future prediction and finally recommending public awareness against the enhancing crimes.
+
 ![Screenshot (35)](https://github.com/user-attachments/assets/bb4737ce-a950-4da0-ad81-d454b777b52b)
 
+![Screenshot (36)](https://github.com/user-attachments/assets/41dc5e97-5cae-4600-8b49-c2d229a6ede3)
+
+![Screenshot (37)](https://github.com/user-attachments/assets/40788190-da88-4ea8-b298-7b6a1bfdeb35)
+
+![Screenshot (40)](https://github.com/user-attachments/assets/b14eefe0-de86-46a7-bcd2-6a47a521cdcc)
