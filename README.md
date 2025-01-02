@@ -16,4 +16,6 @@ Arrest efficiency analysis:
 The reported crimes are about 5 lakhs. But arrest rate is only 2.5 lakhs so when non-domestic crime arrest increases , the rate of crime decreases.
 ![Screenshot (37)](https://github.com/user-attachments/assets/40788190-da88-4ea8-b298-7b6a1bfdeb35)
 
+Geospatial analysis
+
 ![Screenshot (40)](https://github.com/user-attachments/assets/b14eefe0-de86-46a7-bcd2-6a47a521cdcc)
