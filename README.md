@@ -20,3 +20,5 @@ The reported crimes are about 5 lakhs. But arrest rate is only 2.5 lakhs so when
 Geospatial analysis
 
 ![Screenshot (40)](https://github.com/user-attachments/assets/b14eefe0-de86-46a7-bcd2-6a47a521cdcc)
+![Screenshot (41)](https://github.com/user-attachments/assets/e87b1799-cd81-4a88-bcbe-bf8c47b01a97)
+![Screenshot (42)](https://github.com/user-attachments/assets/df44ffe5-c8fa-435d-b314-a86acbbe77a6)
